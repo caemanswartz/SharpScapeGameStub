@@ -1,0 +1,6 @@
+builds/
+.import/
+.mono/
+.vs/
+export.cfg
+export_presets.cfg
